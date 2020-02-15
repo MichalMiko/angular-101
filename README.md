@@ -5,6 +5,7 @@ Couple of projects from a Udemy course [Angular - The Complete Guide (2020 Editi
   - [Setting up the environment](#setting-up-the-environment)
   - [Create my first project in Angular](#create-my-first-project-in-angular)
     - [Added some simple dynamic bindings](#added-some-simple-dynamic-bindings)
+  - [Add Bootstrap to the project](#add-bootstrap-to-the-project)
 
 
 ## Setting up the environment
@@ -20,3 +21,7 @@ Couple of projects from a Udemy course [Angular - The Complete Guide (2020 Editi
 ### Added some simple dynamic bindings
 
 ![alt text](docs/img/FirstAngularProject.gif "Test user input")
+
+
+## Add Bootstrap to the project
+- Install Bootstrap locally for the project `npm install --save bootstrap@3 `
